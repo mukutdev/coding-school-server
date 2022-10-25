@@ -1,0 +1,152 @@
+[
+    {
+        "id" : 1,
+        "name": "HTML Tutorial: HTML & CSS for Beginners",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "courseImg": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-18.jpg",
+        "thumb" : "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-18-400x300.jpg",
+        "duration" : "9 Hours",
+        "lectures" : 9,
+        "lang" : "English",
+        "Assessments" : "Yes",
+        "students" : 7,
+        "LEARNING OUTCOMES" : [
+            "Over 37 lectures and 55.5 hours of content!",
+            "LIVE PROJECT End to End Software Testing Training Included.",
+            "Practical assignments at the end of every session.",
+            "Practical learning experience with live project work and examples."
+        ],
+        "price" : 39,
+        "category" : "Front-End",
+        "instructor" : {
+            "name" : "kane Ad",
+            "instructorImg" : "https://secure.gravatar.com/avatar/b08d0d3bc9bf251a412e53566ac82b54?s=500&r=g"
+        }
+
+    },
+    {
+        "id" : 2,
+        "name": "HTML Tutorial: HTML & CSS for Beginners",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "courseImg": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-18.jpg",
+        "thumb" : "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-18-400x300.jpg",
+        "duration" : "9 Hours",
+        "lectures" : 9,
+        "lang" : "English",
+        "Assessments" : "Yes",
+        "students" : 7,
+        "LEARNING OUTCOMES" : [
+            "Over 37 lectures and 55.5 hours of content!",
+            "LIVE PROJECT End to End Software Testing Training Included.",
+            "Practical assignments at the end of every session.",
+            "Practical learning experience with live project work and examples."
+        ],
+        "price" : 39,
+        "category" : "Front-End",
+        "instructor" : {
+            "name" : "kane Ad",
+            "instructorImg" : "https://secure.gravatar.com/avatar/b08d0d3bc9bf251a412e53566ac82b54?s=500&r=g"
+        }
+
+    },
+    {
+        "id" : 3,
+        "name": "HTML Tutorial: HTML & CSS for Beginners",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "courseImg": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-18.jpg",
+        "thumb" : "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-18-400x300.jpg",
+        "duration" : "9 Hours",
+        "lectures" : 9,
+        "lang" : "English",
+        "Assessments" : "Yes",
+        "students" : 7,
+        "LEARNING OUTCOMES" : [
+            "Over 37 lectures and 55.5 hours of content!",
+            "LIVE PROJECT End to End Software Testing Training Included.",
+            "Practical assignments at the end of every session.",
+            "Practical learning experience with live project work and examples."
+        ],
+        "price" : 39,
+        "category" : "Front-End",
+        "instructor" : {
+            "name" : "kane Ad",
+            "instructorImg" : "https://secure.gravatar.com/avatar/b08d0d3bc9bf251a412e53566ac82b54?s=500&r=g"
+        }
+
+    },
+    {
+        "id" : 4,
+        "name": "HTML Tutorial: HTML & CSS for Beginners",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "courseImg": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-18.jpg",
+        "thumb" : "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-18-400x300.jpg",
+        "duration" : "9 Hours",
+        "lectures" : 9,
+        "lang" : "English",
+        "Assessments" : "Yes",
+        "students" : 7,
+        "LEARNING OUTCOMES" : [
+            "Over 37 lectures and 55.5 hours of content!",
+            "LIVE PROJECT End to End Software Testing Training Included.",
+            "Practical assignments at the end of every session.",
+            "Practical learning experience with live project work and examples."
+        ],
+        "price" : 39,
+        "category" : "Front-End",
+        "instructor" : {
+            "name" : "kane Ad",
+            "instructorImg" : "https://secure.gravatar.com/avatar/b08d0d3bc9bf251a412e53566ac82b54?s=500&r=g"
+        }
+
+    },
+    {
+        "id" : 5,
+        "name": "HTML Tutorial: HTML & CSS for Beginners",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "courseImg": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-18.jpg",
+        "thumb" : "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-18-400x300.jpg",
+        "duration" : "9 Hours",
+        "lectures" : 9,
+        "lang" : "English",
+        "Assessments" : "Yes",
+        "students" : 7,
+        "LEARNING OUTCOMES" : [
+            "Over 37 lectures and 55.5 hours of content!",
+            "LIVE PROJECT End to End Software Testing Training Included.",
+            "Practical assignments at the end of every session.",
+            "Practical learning experience with live project work and examples."
+        ],
+        "price" : 39,
+        "category" : "Front-End",
+        "instructor" : {
+            "name" : "kane Ad",
+            "instructorImg" : "https://secure.gravatar.com/avatar/b08d0d3bc9bf251a412e53566ac82b54?s=500&r=g"
+        }
+
+    },
+    {
+        "id" : 6,
+        "name": "HTML Tutorial: HTML & CSS for Beginners",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "courseImg": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-18.jpg",
+        "thumb" : "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-18-400x300.jpg",
+        "duration" : "9 Hours",
+        "lectures" : 9,
+        "lang" : "English",
+        "Assessments" : "Yes",
+        "students" : 7,
+        "LEARNING OUTCOMES" : [
+            "Over 37 lectures and 55.5 hours of content!",
+            "LIVE PROJECT End to End Software Testing Training Included.",
+            "Practical assignments at the end of every session.",
+            "Practical learning experience with live project work and examples."
+        ],
+        "price" : 39,
+        "category" : "Front-End",
+        "instructor" : {
+            "name" : "kane Ad",
+            "instructorImg" : "https://secure.gravatar.com/avatar/b08d0d3bc9bf251a412e53566ac82b54?s=500&r=g"
+        }
+
+    }
+]
