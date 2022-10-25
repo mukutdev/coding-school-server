@@ -17,6 +17,13 @@ app.get('/courses' , (req , res) =>{
 })
 
 
+// sending  single courses
+app.get('/course/:id', (req , res) =>{
+
+    const courseId = parseInt(req.params.id)
+    const singleCourse = courses.find(course => course.id === courseId)
+    res.send(singleCourse)
+})
 
 app.listen(Port ,()=>{
     console.log("okk port started" , Port);
