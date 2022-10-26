@@ -16,6 +16,13 @@ app.get('/courses' , (req , res) =>{
     res.send(courses)
 })
 
+// sending featured course 
+
+app.get('/courses/featured', (req , res)=>{
+
+    const featuredCourse = courses.filter(course => course.featured === true)
+    res.send(featuredCourse) 
+})
 
 // sending  single courses
 app.get('/course/:id', (req , res) =>{

@@ -10,6 +10,7 @@
         "lang" : "English",
         "Assessments" : "Yes",
         "students" : 7,
+        "featured" : false,
         "LEARNING OUTCOMES" : [
             "Over 37 lectures and 55.5 hours of content!",
             "LIVE PROJECT End to End Software Testing Training Included.",
@@ -35,6 +36,7 @@
         "lang" : "English",
         "Assessments" : "Yes",
         "students" : 10,
+        "featured" : true,
         "LEARNING OUTCOMES" : [
             "Over 37 lectures and 55.5 hours of content!",
             "LIVE PROJECT End to End Software Testing Training Included.",
@@ -60,6 +62,7 @@
         "lang" : "English",
         "Assessments" : "Yes",
         "students" : 47,
+        "featured" : true,
         "LEARNING OUTCOMES" : [
             "Over 37 lectures and 55.5 hours of content!",
             "LIVE PROJECT End to End Software Testing Training Included.",
@@ -85,6 +88,7 @@
         "lang" : "Bangla",
         "Assessments" : "Yes",
         "students" : 15,
+        "featured" : false,
         "LEARNING OUTCOMES" : [
             "Over 37 lectures and 55.5 hours of content!",
             "LIVE PROJECT End to End Software Testing Training Included.",
@@ -110,6 +114,7 @@
         "lang" : "English",
         "Assessments" : "Yes",
         "students" : 7,
+        "featured" : false,
         "LEARNING OUTCOMES" : [
             "Over 37 lectures and 55.5 hours of content!",
             "LIVE PROJECT End to End Software Testing Training Included.",
@@ -135,6 +140,7 @@
         "lang" : "English",
         "Assessments" : "Yes",
         "students" : 7,
+        "featured" : true,
         "LEARNING OUTCOMES" : [
             "Over 37 lectures and 55.5 hours of content!",
             "LIVE PROJECT End to End Software Testing Training Included.",
