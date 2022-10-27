@@ -1,158 +1,151 @@
 [
-    {
-        "id" : 1,
-        "name": "HTML Tutorial: HTML & CSS for Beginners",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-        "courseImg": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-18.jpg",
-        "thumb" : "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-18-400x300.jpg",
-        "duration" : "9 Hours",
-        "lectures" : 9,
-        "lang" : "English",
-        "Assessments" : "Yes",
-        "students" : 7,
-        "featured" : false,
-        "LEARNING OUTCOMES" : [
-            "Over 37 lectures and 55.5 hours of content!",
-            "LIVE PROJECT End to End Software Testing Training Included.",
-            "Practical assignments at the end of every session.",
-            "Practical learning experience with live project work and examples."
-        ],
-        "price" : 39,
-        "category" : "Front-End",
-        "instructor" : {
-            "name" : "kane Ad",
-            "instructorImg" : "https://secure.gravatar.com/avatar/b08d0d3bc9bf251a412e53566ac82b54?s=500&r=g"
-        }
-
-    },
-    {
-        "id" : 2,
-        "name": "Become a PHP Master and Make Money",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-        "courseImg": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-2.jpg",
-        "thumb" : "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-2-400x300.jpg",
-        "duration" : "19 Hours",
-        "lectures" : 30,
-        "lang" : "English",
-        "Assessments" : "Yes",
-        "students" : 10,
-        "featured" : true,
-        "LEARNING OUTCOMES" : [
-            "Over 37 lectures and 55.5 hours of content!",
-            "LIVE PROJECT End to End Software Testing Training Included.",
-            "Practical assignments at the end of every session.",
-            "Practical learning experience with live project work and examples."
-        ],
-        "price" : 59,
-        "category" : "Back-End",
-        "instructor" : {
-            "name" : "James Ad",
-            "instructorImg" : "https://secure.gravatar.com/avatar/b08d0d3bc9bf251a412e53566ac82b54?s=500&r=g"
-        }
-
-    },
-    {
-        "id" : 3,
-        "name": "Learn Python – Interactive Python",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-        "courseImg": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-9.jpg",
-        "thumb" : "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-9-400x300.jpg",
-        "duration" : "29 Hours",
-        "lectures" : 45,
-        "lang" : "English",
-        "Assessments" : "Yes",
-        "students" : 47,
-        "featured" : true,
-        "LEARNING OUTCOMES" : [
-            "Over 37 lectures and 55.5 hours of content!",
-            "LIVE PROJECT End to End Software Testing Training Included.",
-            "Practical assignments at the end of every session.",
-            "Practical learning experience with live project work and examples."
-        ],
-        "price" : 139,
-        "category" : "Back-End",
-        "instructor" : {
-            "name" : "kane Ad",
-            "instructorImg" : "https://secure.gravatar.com/avatar/b08d0d3bc9bf251a412e53566ac82b54?s=500&r=g"
-        }
-
-    },
-    {
-        "id" : 4,
-        "name": "Learn React Js With Projects",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-        "courseImg": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-20.jpg",
-        "thumb" : "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-20-400x300.jpg",
-        "duration" : "24 Hours",
-        "lectures" : 12,
-        "lang" : "Bangla",
-        "Assessments" : "Yes",
-        "students" : 15,
-        "featured" : false,
-        "LEARNING OUTCOMES" : [
-            "Over 37 lectures and 55.5 hours of content!",
-            "LIVE PROJECT End to End Software Testing Training Included.",
-            "Practical assignments at the end of every session.",
-            "Practical learning experience with live project work and examples."
-        ],
-        "price" : 69,
-        "category" : "Front-End",
-        "instructor" : {
-            "name" : "kane Ad",
-            "instructorImg" : "https://secure.gravatar.com/avatar/b08d0d3bc9bf251a412e53566ac82b54?s=500&r=g"
-        }
-
-    },
-    {
-        "id" : 5,
-        "name": "Learn Tailwind css - with real life project",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-        "courseImg": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-14.jpg",
-        "thumb" : "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-14-400x300.jpg",
-        "duration" : "8 Hours",
-        "lectures" : 6,
-        "lang" : "English",
-        "Assessments" : "Yes",
-        "students" : 7,
-        "featured" : false,
-        "LEARNING OUTCOMES" : [
-            "Over 37 lectures and 55.5 hours of content!",
-            "LIVE PROJECT End to End Software Testing Training Included.",
-            "Practical assignments at the end of every session.",
-            "Practical learning experience with live project work and examples."
-        ],
-        "price" : 19,
-        "category" : "Front-End",
-        "instructor" : {
-            "name" : "kane Ad",
-            "instructorImg" : "https://secure.gravatar.com/avatar/b08d0d3bc9bf251a412e53566ac82b54?s=500&r=g"
-        }
-
-    },
-    {
-        "id" : 6,
-        "name": "Mongo Db Crash Course",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-        "courseImg": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-15.jpg",
-        "thumb" : "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-15-400x300.jpg",
-        "duration" : "40 Hours",
-        "lectures" : 40,
-        "lang" : "English",
-        "Assessments" : "Yes",
-        "students" : 7,
-        "featured" : true,
-        "LEARNING OUTCOMES" : [
-            "Over 37 lectures and 55.5 hours of content!",
-            "LIVE PROJECT End to End Software Testing Training Included.",
-            "Practical assignments at the end of every session.",
-            "Practical learning experience with live project work and examples."
-        ],
-        "price" : 100,
-        "category" : "Back-End",
-        "instructor" : {
-            "name" : "kane Ad",
-            "instructorImg" : "https://secure.gravatar.com/avatar/b08d0d3bc9bf251a412e53566ac82b54?s=500&r=g"
-        }
-
+  {
+    "id": 1,
+    "name": "HTML Tutorial: HTML & CSS for Beginners",
+    "description": "If you want to start your career in Web Development, HTML and CSS are essential skills to have because they are foundational languages of the web. HTML stands for Hyper Text Markup Language. In short HTML is a markup language that is used developing web pages.CSS stands for Cascading Style Sheets. In short CSS is a language responsible for layout and styling of the web pages. In this course we will cover both languages from the scratch and by the end of the course become HTML and CSS ninjas by building Responsive Real World Projects.",
+    "courseImg": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-18.jpg",
+    "thumb": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-18-400x300.jpg",
+    "duration": "9 Hours",
+    "lectures": 9,
+    "lang": "English",
+    "Assessments": "Yes",
+    "students": 7,
+    "featured": false,
+    "outcomes": [
+      "Learn HTML5 from scratch.",
+      "Create responsive real world projects from scratch.",
+      "Learn where to get free images, custom fonts.",
+      "Learn where to get custom color palettes."
+    ],
+    "price": 39,
+    "category": "Front-End",
+    "instructor": {
+      "name": "John Smith",
+      "instructorImg": "https://secure.gravatar.com/avatar/b08d0d3bc9bf251a412e53566ac82b54?s=500&r=g"
     }
+  },
+  {
+    "id": 2,
+    "name": "Become a PHP Master and Make Money",
+    "description": "Are you new to PHP or need a refresher? Then this course will help you get all the fundamentals of Procedural PHP, Object Oriented PHP, MYSQLi, and ending the course by building a CMS system similar to WordPress, Joomla, or Drupal.Knowing PHP has allowed me to make enough money to stay home and make courses like this one for students all over the world. Being a PHP developer can allow anyone to make really good money online and offline, developing dynamic applications.",
+    "thumb": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-2-400x300.jpg",
+    "duration": "19 Hours",
+    "lectures": 30,
+    "lang": "English",
+    "Assessments": "Yes",
+    "students": 10,
+    "featured": true,
+    "outcomes": [
+      "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla ",
+      "You will learn MySQL",
+      "Object Oriented Programming ",
+      "Password hashing"
+    ],
+    "price": 59,
+    "category": "Back-End",
+    "instructor": {
+      "name": "Devon Cooper",
+      "instructorImg": "https://secure.gravatar.com/avatar/b08d0d3bc9bf251a412e53566ac82b54?s=500&r=g"
+    }
+  },
+  {
+    "id": 3,
+    "name": "100 Days of Code - The Complete Python",
+    "description": "Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python. With over 500,000 5 STAR reviews and a 4.8 average, my courses are some of the HIGHEST RATED courses in the history of coding school!100 days, 1 hour per day, learn to build 1 project per day, this is how you master Python.At 60+ hours, this Python course is without a doubt the most comprehensive Python course available anywhere online. Even if you have zero programming experience, this course will take you from beginner to professional",
+    "courseImg": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-9.jpg",
+    "thumb": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-9-400x300.jpg",
+    "duration": "29 Hours",
+    "lectures": 45,
+    "lang": "English",
+    "Assessments": "Yes",
+    "students": 47,
+    "featured": true,
+    "outcomes": [
+      "You will be able to program in Python professionally",
+      "Be able to build fully fledged websites and web apps with Python",
+      "Build games like Blackjack, Pong and Snake using Python",
+      "Build GUIs and Desktop applications with Python"
+    ],
+    "price": 139,
+    "category": "Back-End",
+    "instructor": {
+      "name": "Tom Hanks",
+      "instructorImg": "https://secure.gravatar.com/avatar/b08d0d3bc9bf251a412e53566ac82b54?s=500&r=g"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Learn React Js With Projects",
+    "description": "React.js is THE most popular JavaScript library you can use and learn these days to build modern, reactive user interfaces for the web.This course teaches you React in-depth, from the ground up, step by step by diving into all the core basics, exploring tons of examples and also introducing you to advanced concepts as well.You'll get all the theory, tons of examples and demos, assignments and exercises and tons of important knowledge that is skipped by most other resources - after all, there is a reason why this course is that huge! :)",
+    "courseImg": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-20.jpg",
+    "thumb": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-20-400x300.jpg",
+    "duration": "24 Hours",
+    "lectures": 12,
+    "lang": "Bangla",
+    "Assessments": "Yes",
+    "students": 15,
+    "featured": false,
+    "outcomes": [
+      "Over 37 lectures and 55.5 hours of content!",
+      "Build powerful, fast, user-friendly and reactive web apps ",
+      "Practical assignments at the end of every session.",
+      "Learn all about React Hooks and React Components"
+    ],
+    "price": 69,
+    "category": "Front-End",
+    "instructor": {
+      "name": "kane Ad",
+      "instructorImg": "https://secure.gravatar.com/avatar/b08d0d3bc9bf251a412e53566ac82b54?s=500&r=g"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Learn Tailwind css - with real life project",
+    "description": "This is a fun project-based course to learn how to create awesome layouts using the Tailwind CSS framework and get comfortable using utility classes over something like Bootstrap, which uses component-based classes. Let's take a look at the outline for this course...Next, we will take what we learn in the sandbox environment and use it to create some small projects. These are things that will take 10 - 20 minutes to create and we will do it all in one video per project. The mini-projects include",
+    "courseImg": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-14.jpg",
+    "thumb": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-14-400x300.jpg",
+    "duration": "8 Hours",
+    "lectures": 6,
+    "lang": "English",
+    "Assessments": "Yes",
+    "students": 7,
+    "featured": false,
+    "outcomes": [
+      "Learn to create and edit layouts super fast",
+      "Learn the Tailwind utility classes using a code sandbox ",
+      "Practical assignments at the end of every session.",
+      "Configure your styles to create custom layouts"
+    ],
+    "price": 19,
+    "category": "Front-End",
+    "instructor": {
+      "name": "Loren Smith",
+      "instructorImg": "https://secure.gravatar.com/avatar/b08d0d3bc9bf251a412e53566ac82b54?s=500&r=g"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Mongo Db Crash Course",
+    "description": "MongoDB is one of the most important NoSQL databases you can work with these days. It's extremely popular and MongoDB developers are in high demand.No matter if you're building web applications, mobile applications or any other kind of application or if you're a data scientist - you'll need to work with data. Storing data, querying it efficiently and minimizing complexities whilst optimizing performance are crucial tasks.",
+    "courseImg": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-15.jpg",
+    "thumb": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-15-400x300.jpg",
+    "duration": "40 Hours",
+    "lectures": 40,
+    "lang": "English",
+    "Assessments": "Yes",
+    "students": 7,
+    "featured": true,
+    "outcomes": [
+      "Learn what document databases are and how data is organized with MongoDB ",
+      "Learn how to perform CRUD operations with MongoDB",
+      "Use all features MongoDB offers you to work with data efficiently",
+      "Practical learning experience with live project work and examples."
+    ],
+    "price": 100,
+    "category": "Back-End",
+    "instructor": {
+      "name": "Juliana Js",
+      "instructorImg": "https://secure.gravatar.com/avatar/b08d0d3bc9bf251a412e53566ac82b54?s=500&r=g"
+    }
+  }
 ]
