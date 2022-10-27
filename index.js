@@ -12,6 +12,9 @@ const  courses = require('./Data/courses.json')
 
 // sending all course details
 
+app.get('/' , (req , res) =>{
+    res.send('server is runing')
+})
 app.get('/courses' , (req , res) =>{
     res.send(courses)
 })
